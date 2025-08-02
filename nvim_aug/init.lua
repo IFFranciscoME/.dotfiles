@@ -1,0 +1,12 @@
+require('keymaps')
+require('plugins.lazy')
+require('theme')
+require('layouts')
+require('plugins.lualine')
+require('plugins.telescope')
+require('plugins.trouble')
+require('plugins.lsp')
+require('plugins.treesitter')
+require('options')
+require('misc')
+
